@@ -15,6 +15,6 @@ if (parent->right != NULL)
 	parent->right->parent = right_node;
 	right_node->right = parent->right;
 }
-parent-right = right_node;
+parent->right = right_node;
 return (right_node);
 }

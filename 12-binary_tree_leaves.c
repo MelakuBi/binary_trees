@@ -7,8 +7,9 @@
  * Return: return 0 or return 1
  */
 size_t binary_tree_leaves(const binary_tree_t *tree)
+{
 	size_t leaf = 0;
-	if (tree !== NULL)
+	if (tree != NULL)
 {
 	if (tree->left == NULL && tree->right == NULL)
 	{
@@ -23,6 +24,7 @@ size_t binary_tree_leaves(const binary_tree_t *tree)
 		leaf += binary_tree_leaves(tree->right);
 	}
 	return (leaf);
+}
 	else
 	{
 	return (0);

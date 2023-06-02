@@ -5,6 +5,7 @@
  * Return: return 1 on success 0 on failure
  */
 void binary_tree_delete(binary_tree_t *tree)
+{
 	if (node->left == NULL && node->right == NULL)
 {
 	return (1);
