@@ -1,4 +1,4 @@
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  * @binary_tree_height - function that identify the height of a node
  * @tree: a pointer to the previous node of a tree

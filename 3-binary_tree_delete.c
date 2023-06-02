@@ -1,4 +1,4 @@
-#include "binary_tree.h"
+#include "binary_trees.h"
 /*
  * @binary_tree_delete - function to delete node
  * @node: a node to be deleted

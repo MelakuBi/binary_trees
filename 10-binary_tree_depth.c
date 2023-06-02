@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  * binary_tree_depth - function that measures the 
  * depth of a tree in binary tree

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  * binary_tree_inorder - a function that travers inorder
  * @tree: a pointer to previous node of the to be added

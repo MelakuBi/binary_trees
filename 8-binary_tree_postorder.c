@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  *  binary_tree_postorder - function that traverse post order
  *  @tree: its a pointer to each node
